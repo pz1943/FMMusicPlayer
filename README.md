@@ -10,3 +10,5 @@
 
 ###支持频道保存，三种播放模式
 ![](http://img.blog.csdn.net/20160103225957251?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+
+###正在学习中，有兴趣交流的小伙伴加 QQ：369019518
